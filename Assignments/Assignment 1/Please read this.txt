@@ -1,0 +1,4 @@
+My web page is 
+http://comp3340.aldoreh.myweb.cs.uwindsor.ca/
+NOT
+http://aldoreh.myweb.cs.uwindsor.ca/
